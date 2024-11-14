@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ExtensionManifest Version="7.0" ExtensionBundleId="com.trimbaby.panel" ExtensionBundleVersion="1.0.0"
-    ExtensionBundleName="TrimBaby" 
+<ExtensionManifest Version="7.0" ExtensionBundleId="com.hellaeah.panel" ExtensionBundleVersion="1.0.0"
+    ExtensionBundleName="Hellaeah" 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <ExtensionList>
-        <Extension Id="com.trimbaby.panel" Version="1.0.0" />
+        <Extension Id="com.hellaeah.panel" Version="1.0.0" />
     </ExtensionList>
     <ExecutionEnvironment>
         <HostList>
@@ -17,7 +17,7 @@
         </RequiredRuntimeList>
     </ExecutionEnvironment>
     <DispatchInfoList>
-        <Extension Id="com.trimbaby.panel">
+        <Extension Id="com.hellaeah.panel">
             <DispatchInfo>
                 <Resources>
                     <MainPath>./index.html</MainPath>
@@ -31,7 +31,7 @@
                 </Lifecycle>
                 <UI>
                     <Type>Panel</Type>
-                    <Menu>TrimBaby</Menu>
+                    <Menu>Hellaeah</Menu>
                     <Geometry>
                         <Size>
                             <Height>200</Height>
